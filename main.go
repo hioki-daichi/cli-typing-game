@@ -12,22 +12,21 @@ import (
 	"time"
 
 	"github.com/hioki-daichi/splatoon2-weapons-typing/color"
-	"github.com/hioki-daichi/splatoon2-weapons-typing/envutil"
+	"github.com/hioki-daichi/splatoon2-weapons-typing/opt"
 	"github.com/hioki-daichi/splatoon2-weapons-typing/wording"
 )
 
 func main() {
-	err := execute(os.Stdout, 15, "./weapons.txt")
+	options := opt.Parse(os.Args[1:]...)
+	err := execute(os.Stdout, options)
 	if err != nil {
 		log.Fatal(err)
 	}
 }
 
-func execute(w io.Writer, defaultTimeout int, path string) error {
-	timeout, err := envutil.GetIntEnvOrElse("TIMEOUT", defaultTimeout)
-	if err != nil {
-		return err
-	}
+func execute(w io.Writer, options *opt.Options) error {
+	path := options.Path
+	timeout := options.Timeout
 
 	words, err := wording.NewWorder(path).Words()
 	if err != nil {
