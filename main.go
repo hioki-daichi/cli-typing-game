@@ -95,7 +95,7 @@ func printScore(w io.Writer, hitsOfKey map[rune]int, totalTime int) {
 	fmt.Fprintf(w, "%-9s %f\n", "Hits/sec:", float64(totalHits)/float64(totalTime))
 	fmt.Fprintf(w, "Hits/key:\n")
 
-	keys := make([]rune, 0, len(hitsOfKey))
+	var keys []rune
 	for k := range hitsOfKey {
 		keys = append(keys, k)
 	}
