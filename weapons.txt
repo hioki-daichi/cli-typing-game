@@ -2,43 +2,135 @@
 .52 Gal Deco
 .96 Gal
 .96 Gal Deco
-H-3 Nozzlenose
-H-3 Nozzlenose D
-Cherry H-3 Nozzlenose
-L-3 Nozzlenose
-L-3 Nozzlenose D
-N-Zap '85
-N-Zap '89
-N-Zap '83
-Splattershot Jr.
-Custom Splattershot Jr.
-Splash-O-Matic
-Neo Splash-O-Matic
-Sploosh-O-Matic
-Neo Sploosh-O-Matic
-Sploosh-o-matic 7
-Jet Squelcher
-Custom Jet Squelcher
-Splattershot
-Hero Shot Replica
-Tentatek Splattershot
-Wasabi Splattershot
-Dual Squelcher
-Custom Dual Squelcher
-Luna Blaster
-Luna Blaster Neo
-Splattershot Pro
-Forge Splattershot Pro
-Berry Splattershot
 Aerospray MG
 Aerospray RG
-Aerospray PG
+Ballpoint Splatling
+Ballpoint Splatling Nouveau
+Bamboozler 14 Mk I
+Bamboozler 14 Mk II
 Blaster
+Bloblobber
+Bloblobber Deco
+Carbon Roller
+Carbon Roller Deco
+Clash Blaster
+Clash Blaster Neo
+Classic Squiffer
 Custom Blaster
+Custom Dualie Squelchers
+Custom E-liter 4K
+Custom E-liter 4K Scope
+Custom Explosher
+Custom Goo Tuber
+Custom Hydra Splatling
+Custom Jet Squelcher
+Custom Range Blaster
+Custom Splattershot Jr.
+Dapple Dualies
+Dapple Dualies Nouveau
+Dark Tetra Dualies
+Dualie Squelchers
+Dynamo Roller
+E-liter 4K
+E-liter 4K Scope
+Enperry Splat Dualies
+Explosher
+Firefin Splat Charger
+Firefin Splatterscope
+Flingza Roller
+Foil Flingza Roller
+Foil Squeezer
+Forge Splattershot Pro
+Glooga Dualies
+Glooga Dualies Deco
+Gold Dynamo Roller
+Goo Tuber
+H-3 Nozzlenose
+H-3 Nozzlenose D
+Heavy Splatling
+Heavy Splatling Deco
+Hero Blaster Replica
+o Canyon	5	Shooter
+Hero Brella Replica
+o Canyon	9	Brella
+Hero Charger Replica
+o Canyon	3	Charger
+Hero Dualie Replicas
+o Canyon	4	Dualie
+Hero Roller Replica
+o Canyon	3	Roller
+Hero Shot Replica
+o Canyon	2	Shooter
+Hero Slosher Replica
+o Canyon	5	Slosher
+Hero Splatling Replica
+o Canyon	8	Splatling
+Herobrush Replica
+o Canyon	10	Roller
+Hydra Splatling
+Inkbrush
+Inkbrush Nouveau
+Jet Squelcher
+Kensa .52 Gal
+Kensa Charger
+Kensa Dynamo Roller
+Kensa Glooga Dualies
+Kensa L-3 Nozzlenose
+Kensa Luna Blaster
+Kensa Mini Splatling
+Kensa Octobrush
+Kensa Rapid Blaster
+Kensa Sloshing Machine
+Kensa Splat Dualies
+Kensa Splat Roller
+Kensa Splatterscope
+Kensa Splattershot
+Kensa Splattershot Jr.
+Kensa Splattershot Pro
+Kensa Undercover Brella
+Krak-On Splat Roller
+L-3 Nozzlenose
+L-3 Nozzlenose D
+Light Tetra Dualies
+Luna Blaster
+Luna Blaster Neo
+Mini Splatling
+N-ZAP '85
+N-ZAP '89
+Nautilus 47
+Nautilus 79
+Neo Splash-o-matic
+Neo Sploosh-o-matic
+New Squiffer
+Octobrush
+Octobrush Nouveau
+Octo Shot Replica
+Range Blaster
 Rapid Blaster
 Rapid Blaster Deco
 Rapid Blaster Pro
 Rapid Blaster Pro Deco
-Range Blaster
-Custom Range Blaster
-Grim Range Blaster
+Slosher
+Slosher Deco
+Sloshing Machine
+Sloshing Machine Neo
+Sorella Brella
+Splash-o-matic
+Splat Brella
+Splat Charger
+Splat Dualies
+Splat Roller
+Splatterscope
+Splattershot
+Splattershot Jr.
+Splattershot Pro
+Sploosh-o-matic
+Squeezer
+Tenta Brella
+Tenta Sorella Brella
+Tentatek Splattershot
+Tri-Slosher
+Tri-Slosher Nouveau
+Undercover Brella
+Undercover Sorella Brella
+Zink Mini Splatling
