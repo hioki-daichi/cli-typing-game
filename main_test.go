@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hioki-daichi/splatoon2-weapons-typing/opt"
+	"./opt"
 )
 
 func TestMain_execute(t *testing.T) {

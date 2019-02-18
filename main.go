@@ -11,9 +11,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hioki-daichi/splatoon2-weapons-typing/color"
-	"github.com/hioki-daichi/splatoon2-weapons-typing/opt"
-	"github.com/hioki-daichi/splatoon2-weapons-typing/wording"
+	"./color"
+	"./opt"
+	"./wording"
 )
 
 func main() {
