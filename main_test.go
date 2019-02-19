@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"./opt"
+	"./internal/opt"
 )
 
 func TestMain_execute(t *testing.T) {

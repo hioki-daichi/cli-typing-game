@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"./color"
-	"./opt"
+	"./internal/opt"
 	"./wording"
 )
 
