@@ -13,7 +13,7 @@ import (
 
 	"./internal/color"
 	"./internal/opt"
-	"./wording"
+	"./internal/wording"
 )
 
 func main() {
