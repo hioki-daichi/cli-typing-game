@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"./color"
+	"./internal/color"
 	"./internal/opt"
 	"./wording"
 )
